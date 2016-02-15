@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fashion and Advertising]]></title>
+        <description><![CDATA[Fashion and Advertising]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 22:47:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fc0ef5b-14f8-4ce2-80a8-92bbc79c68c9.jpg">]]></description>
+            <link>undefined32776126-a3bc-48b0-aef0-e3097b1a4b72/index.html</link>
+            <guid isPermaLink="false">32776126-a3bc-48b0-aef0-e3097b1a4b72</guid>
+            <pubDate>Mon, 15 Feb 2016 22:46:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
