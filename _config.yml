@@ -1,7 +1,7 @@
 name: Mike Lyons Photo
 favicon: null
-layout_spectrum: 0.773769625229761
-typography_spectrum: 0.051716892747208476
+layout_spectrum: 1
+typography_spectrum: 0.42872
 title: Fashion and Advertising
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.14978087483905256
+    - '#625d63'
+    - '#e8e1db'
+    - '#0a0809'
+    - '#b49a81'
+    - '#3a7db1'
+  brandStrength: 0.9375
   lightness: 0.9493599771521986
-  saturation: 0.6253848390188068
-  rhythmicContrast: 0.8602945960592479
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
